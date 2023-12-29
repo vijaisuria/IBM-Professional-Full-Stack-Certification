@@ -1,6 +1,6 @@
 # Python for Data Science, AI & Development
 
-#### This course is a part of IBM Professional Full Stack Developer Certificate _Course-06_
+#### This course is a part of IBM Professional Full Stack Developer Certificate (_Course-06_)
 
 Instructor: Joseph Santarcangelo
 
